@@ -1,0 +1,20 @@
+.bg{
+    background-image: url(assets/Solodev_Blog_MiniCards2_951x651.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.ab{
+    text-align: justify;
+}
+.bg h1{
+    color: white;
+
+}
+.para{
+    color: white;
+    font-weight: 100;
+}
+.ba{
+    text-align: justify;
+    column-count: 2;
+}
